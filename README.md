@@ -2,6 +2,11 @@
 
 MSA(Microservice Architecture) 기반의 Pyokemon 서비스입니다.
 
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/566b7f35-faf5-40e2-a304-abf46ae2fa7e" />
+
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/9392e252-a49e-4bee-bdb9-d20d522171cc" />
+
+
 ## 기술 스택
 
 - **Java**: 21
